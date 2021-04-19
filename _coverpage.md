@@ -6,5 +6,5 @@
 
 <h1 align="center">JavaDiary</h1>
 
-[GitHub](<https://github.com/youthlql/JavaYouth>)
+[GitHub](<https://github.com/codedawn/diary>)
 [开始阅读](#Java)
