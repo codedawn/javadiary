@@ -1,0 +1,5 @@
+认识 ByteToMessageDecoder 和messagetomessagedecoder的区别的关键在于，能不能share，
+
+因为ByteToMessageDecoder是把tcp流分成一段一段，解决粘包、半包问题，所以ByteToMessageDecoder会保留当前读的流，直到读成一段完整流（根据分割方法确定）。不能share
+
+messagetomessagedecoder是处理已经分成一段一段的数据，线程安全，可以share

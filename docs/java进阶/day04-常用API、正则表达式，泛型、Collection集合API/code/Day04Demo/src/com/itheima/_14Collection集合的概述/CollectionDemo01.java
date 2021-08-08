@@ -2,7 +2,6 @@ package com.itheima._14Collection集合的概述;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Collections;
 import java.util.HashSet;
 
 /**

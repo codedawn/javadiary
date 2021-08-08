@@ -1,6 +1,4 @@
 package com.itheima._04Set系列集合;
-import java.util.*;
-
 /**
   目标：HashSet集合
 

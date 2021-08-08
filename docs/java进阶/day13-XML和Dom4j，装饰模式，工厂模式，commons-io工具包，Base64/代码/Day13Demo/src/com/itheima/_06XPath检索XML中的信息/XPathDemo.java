@@ -5,7 +5,6 @@ import org.dom4j.*;
 import org.dom4j.io.SAXReader;
 import org.junit.Test;
 
-import java.io.File;
 import java.io.InputStream;
 import java.util.List;
 

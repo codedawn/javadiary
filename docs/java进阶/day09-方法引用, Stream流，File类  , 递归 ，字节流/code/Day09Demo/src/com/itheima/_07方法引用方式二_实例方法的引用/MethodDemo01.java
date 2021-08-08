@@ -2,7 +2,6 @@ package com.itheima._07方法引用方式二_实例方法的引用;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 /**
      目标：方法引用有四种形式：
@@ -17,7 +16,7 @@ import java.util.Random;
               a.定义一个实例方法，把需要的代码放到实例方法中去。
           实例方法引用的注意事项
              ” 重要：被引用的方法的参数列表要和函数式接口中的抽象方法的参数列表一致。“
- 
+
  */
 public class MethodDemo01 {
     public static void main(String[] args) {

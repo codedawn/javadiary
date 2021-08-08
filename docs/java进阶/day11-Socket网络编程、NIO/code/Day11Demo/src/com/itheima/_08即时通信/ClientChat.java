@@ -1,8 +1,6 @@
 package com.itheima._08即时通信;
 
 
-import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.DataInputStream;

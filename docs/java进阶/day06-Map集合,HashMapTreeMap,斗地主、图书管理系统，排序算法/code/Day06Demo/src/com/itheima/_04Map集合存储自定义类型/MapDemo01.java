@@ -1,7 +1,6 @@
 package com.itheima._04Map集合存储自定义类型;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 
 /**

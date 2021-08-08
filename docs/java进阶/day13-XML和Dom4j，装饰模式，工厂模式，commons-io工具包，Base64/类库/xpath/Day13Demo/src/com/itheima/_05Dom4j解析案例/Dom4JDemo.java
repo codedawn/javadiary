@@ -1,7 +1,6 @@
 package com.itheima._05Dom4j解析案例;
 
 import org.dom4j.Document;
-import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 

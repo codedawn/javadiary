@@ -1,5 +1,4 @@
 package com.itheima._06转换流;
-import java.io.*;
 /**
      目标：字符输出转换OutputStreamWriter流的使用。
 

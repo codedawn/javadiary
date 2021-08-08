@@ -1,7 +1,5 @@
 package com.itheima._08打印流;
 
-import java.io.*;
-
 /**
     目标：打印流PrintStream / PrintWriter.
 

@@ -1,7 +1,5 @@
 package com.itheima._08斗地主游戏洗牌发牌看牌;
 
-import java.util.*;
-
 /**
     目标：斗地主游戏的案例开发-Map集合实现。
 

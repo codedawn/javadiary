@@ -1,6 +1,5 @@
 package com.itheima.test06;
 
-import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;

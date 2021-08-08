@@ -1,9 +1,5 @@
 package com.itheima._16动态代理;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
-
 /**
     目标：动态代理设计模式演示。
 

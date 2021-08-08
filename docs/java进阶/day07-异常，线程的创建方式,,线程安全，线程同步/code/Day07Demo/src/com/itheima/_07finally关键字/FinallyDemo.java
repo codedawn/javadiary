@@ -1,7 +1,6 @@
 package com.itheima._07finally关键字;
 
 import java.io.FileInputStream;
-import java.io.IOException;
 import java.io.InputStream;
 
 /**

@@ -1,6 +1,5 @@
 package com.itheima._06可变参数;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**

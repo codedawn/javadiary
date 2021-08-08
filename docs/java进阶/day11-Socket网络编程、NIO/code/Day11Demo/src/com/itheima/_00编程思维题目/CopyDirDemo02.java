@@ -1,7 +1,5 @@
 package com.itheima._00编程思维题目;
 
-import java.io.*;
-
 /**
     目标：复制文件夹。（面试题，拓展）
 

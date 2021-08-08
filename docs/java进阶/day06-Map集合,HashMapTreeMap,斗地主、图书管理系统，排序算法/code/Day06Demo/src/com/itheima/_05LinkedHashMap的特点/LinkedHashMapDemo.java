@@ -1,6 +1,4 @@
 package com.itheima._05LinkedHashMap的特点;
-import java.util.*;
-
 /**
     目标：LinkedHashMap的特点介绍。
 

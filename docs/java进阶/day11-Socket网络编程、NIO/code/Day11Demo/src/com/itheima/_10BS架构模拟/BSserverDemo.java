@@ -1,8 +1,5 @@
 package com.itheima._10BS架构模拟;
 
-import com.itheima._07TCP通信四.Server;
-
-import java.io.IOException;
 import java.io.PrintStream;
 import java.net.ServerSocket;
 import java.net.Socket;

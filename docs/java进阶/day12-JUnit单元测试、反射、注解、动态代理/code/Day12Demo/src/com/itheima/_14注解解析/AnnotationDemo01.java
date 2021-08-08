@@ -2,7 +2,6 @@ package com.itheima._14注解解析;
 
 import org.junit.Test;
 
-import java.lang.annotation.*;
 import java.lang.reflect.Method;
 import java.util.Arrays;
 

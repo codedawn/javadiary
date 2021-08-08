@@ -1,6 +1,5 @@
 package com.itheima._15Collection集合的常用API;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
@@ -8,7 +7,7 @@ import java.util.HashSet;
 
 /**
     目标：Collection集合的常用API.
-    
+
     Collection是集合的祖宗类，它的功能是全部集合都可以继承使用的，所以要学习它。
     Collection API如下：
          - public boolean add(E e)：  把给定的对象添加到当前集合中 。

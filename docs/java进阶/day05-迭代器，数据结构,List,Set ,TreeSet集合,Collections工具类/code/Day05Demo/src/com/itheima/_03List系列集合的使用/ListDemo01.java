@@ -1,9 +1,7 @@
 package com.itheima._03List系列集合的使用;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
-import java.util.Vector;
 
 /**
       目标：ArrayList集合。

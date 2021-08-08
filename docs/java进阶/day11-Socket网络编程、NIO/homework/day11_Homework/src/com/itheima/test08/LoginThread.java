@@ -1,7 +1,5 @@
 package com.itheima.test08;
 
-import java.io.*;
-import java.net.ServerSocket;
 import java.net.Socket;
 
 /**

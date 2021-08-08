@@ -1,6 +1,5 @@
 package com.itheima._16线程的创建_方式三拓展;
 import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 /**
      拓展：线程的创建方式三。（拓展）

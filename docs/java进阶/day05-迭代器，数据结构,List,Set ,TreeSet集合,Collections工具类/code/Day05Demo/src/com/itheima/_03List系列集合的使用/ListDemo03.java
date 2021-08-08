@@ -1,7 +1,6 @@
 package com.itheima._03List系列集合的使用;
 
 import java.util.LinkedList;
-import java.util.List;
 
 /**
      目标：LinkedList集合。

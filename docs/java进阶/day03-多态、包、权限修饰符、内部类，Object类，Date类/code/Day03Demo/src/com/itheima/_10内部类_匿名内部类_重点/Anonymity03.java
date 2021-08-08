@@ -1,6 +1,5 @@
 package com.itheima._10内部类_匿名内部类_重点;
 
-import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

@@ -1,8 +1,5 @@
 package com.itheima._25字节流的使用;
 
-import java.io.FileOutputStream;
-import java.io.OutputStream;
-
 /**
     目标：字节输出流的使用-追加数据管道。
 

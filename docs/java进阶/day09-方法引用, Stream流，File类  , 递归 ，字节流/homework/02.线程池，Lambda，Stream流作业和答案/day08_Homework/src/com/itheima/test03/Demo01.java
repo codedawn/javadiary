@@ -1,7 +1,6 @@
 package com.itheima.test03;
 
 import java.util.Random;
-import java.util.concurrent.*;
 
 /**
  使用线程池,分别开启三条线程,生成10个1到100的随机数,然后计算他们的平均数,

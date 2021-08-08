@@ -1,9 +1,7 @@
 package com.itheima._05异常_编译时异常的处理机制;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.InputStream;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

@@ -1,7 +1,5 @@
 package com.itheima._09图书管理案例;
 
-import java.util.*;
-
 /**
     目标：图书管理系统的开发。
 

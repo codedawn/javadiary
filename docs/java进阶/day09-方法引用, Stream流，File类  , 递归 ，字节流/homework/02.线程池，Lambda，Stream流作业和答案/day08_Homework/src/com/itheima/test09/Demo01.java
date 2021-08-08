@@ -1,7 +1,5 @@
 package com.itheima.test09;
 
-import java.util.*;
-
 /**
  使用lambda表达式对List，Set，Map集合进行遍历。
  */

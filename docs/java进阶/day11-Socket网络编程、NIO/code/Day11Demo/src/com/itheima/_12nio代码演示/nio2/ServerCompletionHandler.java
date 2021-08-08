@@ -3,7 +3,6 @@ package com.itheima._12nio代码演示.nio2;
 import java.nio.ByteBuffer;
 import java.nio.channels.AsynchronousSocketChannel;
 import java.nio.channels.CompletionHandler;
-import java.util.concurrent.ExecutionException;
 
 public class ServerCompletionHandler implements CompletionHandler<AsynchronousSocketChannel, Server> {
 
@@ -37,7 +36,7 @@ public class ServerCompletionHandler implements CompletionHandler<AsynchronousSo
 			}
 		});
 	}
-	
+
 	private void write(AsynchronousSocketChannel asc, String response) {
 		try {
 			ByteBuffer buf = ByteBuffer.allocate(1024);
@@ -48,7 +47,7 @@ public class ServerCompletionHandler implements CompletionHandler<AsynchronousSo
 			e.printStackTrace();
 		}
 	}
-	
+
 	@Override
 	public void failed(Throwable exc, Server attachment) {
 		exc.printStackTrace();

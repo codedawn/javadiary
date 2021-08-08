@@ -1,7 +1,6 @@
 package com.itheima._03List系列集合的使用;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
 

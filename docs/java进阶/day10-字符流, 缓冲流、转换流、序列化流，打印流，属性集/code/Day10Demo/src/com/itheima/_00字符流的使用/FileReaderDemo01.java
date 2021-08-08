@@ -1,6 +1,5 @@
 package com.itheima._00字符流的使用;
 
-import java.io.File;
 import java.io.FileReader;
 import java.io.Reader;
 

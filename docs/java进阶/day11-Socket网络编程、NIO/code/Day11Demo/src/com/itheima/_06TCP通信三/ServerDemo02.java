@@ -1,6 +1,5 @@
 package com.itheima._06TCP通信三;
 
-import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 

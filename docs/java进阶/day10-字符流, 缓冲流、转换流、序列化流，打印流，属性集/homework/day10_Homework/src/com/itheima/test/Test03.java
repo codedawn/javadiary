@@ -1,7 +1,5 @@
 package com.itheima.test;
 
-import java.io.*;
-
 /**
  * @author pkxing
  * @version 1.0

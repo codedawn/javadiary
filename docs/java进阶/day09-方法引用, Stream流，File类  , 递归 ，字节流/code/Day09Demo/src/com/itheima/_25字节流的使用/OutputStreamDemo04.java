@@ -1,7 +1,5 @@
 package com.itheima._25字节流的使用;
 
-import java.io.*;
-
 /**
     目标：字节输出流的使用。
 

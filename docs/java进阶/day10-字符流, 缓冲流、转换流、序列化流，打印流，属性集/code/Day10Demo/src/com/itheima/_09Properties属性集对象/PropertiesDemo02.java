@@ -1,7 +1,6 @@
 package com.itheima._09Properties属性集对象;
 
 import java.io.FileInputStream;
-import java.util.Map;
 import java.util.Properties;
 /**
     目标：Properties读取属性文件中的键值对信息。（读取）

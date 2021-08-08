@@ -1,7 +1,6 @@
 package com.itheima._02InetAddress;
 
 import java.net.InetAddress;
-import java.net.UnknownHostException;
 
 /**
     目标：InetAddress类概述

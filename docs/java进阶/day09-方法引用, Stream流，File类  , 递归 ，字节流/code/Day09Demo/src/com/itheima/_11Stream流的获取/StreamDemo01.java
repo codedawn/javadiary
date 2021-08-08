@@ -1,6 +1,5 @@
 package com.itheima._11Stream流的获取;
 
-import java.util.*;
 import java.util.stream.Stream;
 
 /**

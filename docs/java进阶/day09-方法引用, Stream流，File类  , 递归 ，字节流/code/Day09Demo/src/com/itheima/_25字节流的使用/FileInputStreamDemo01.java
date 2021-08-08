@@ -2,7 +2,6 @@ package com.itheima._25字节流的使用;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.InputStream;
 
 /**

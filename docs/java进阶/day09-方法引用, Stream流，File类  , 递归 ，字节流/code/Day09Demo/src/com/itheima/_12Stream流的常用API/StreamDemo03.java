@@ -1,6 +1,5 @@
 package com.itheima._12Stream流的常用API;
 
-import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;

@@ -1,6 +1,5 @@
 package com.itheima._04TCP通信一;
 
-import java.io.IOException;
 import java.io.OutputStream;
 import java.io.PrintStream;
 import java.net.Socket;

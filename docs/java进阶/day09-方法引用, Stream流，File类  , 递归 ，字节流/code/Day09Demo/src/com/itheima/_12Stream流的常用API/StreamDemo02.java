@@ -2,7 +2,6 @@ package com.itheima._12Stream流的常用API;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Function;
 
 /**
     目标：Stream流的常用API

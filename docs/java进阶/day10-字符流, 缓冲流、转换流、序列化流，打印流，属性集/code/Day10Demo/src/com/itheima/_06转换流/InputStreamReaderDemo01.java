@@ -1,7 +1,5 @@
 package com.itheima._06转换流;
 
-import java.io.*;
-
 /**
      目标：字符输入转换流InputStreamReader的使用。
 

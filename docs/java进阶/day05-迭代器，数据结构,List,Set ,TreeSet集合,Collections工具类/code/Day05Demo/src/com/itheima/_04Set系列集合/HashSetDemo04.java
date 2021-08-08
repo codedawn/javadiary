@@ -1,6 +1,5 @@
 package com.itheima._04Set系列集合;
 
-import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
