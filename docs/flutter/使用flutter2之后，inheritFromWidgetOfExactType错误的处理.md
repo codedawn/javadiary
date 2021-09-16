@@ -1,0 +1,1 @@
+ [使用flutter2之后，inheritFromWidgetOfExactType错误的处理_fenboo9416的博客-CSDN博客](https://blog.csdn.net/fenboo9416/article/details/114434322) 

@@ -1,0 +1,1 @@
+ [Java generic methods in generics classes - Stack Overflow](https://stackoverflow.com/questions/18001550/java-generic-methods-in-generics-classes) 

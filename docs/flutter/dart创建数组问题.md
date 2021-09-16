@@ -1,0 +1,1 @@
+ ['List' is deprecated and shouldn't be used - Dart null safety - Stack Overflow](https://stackoverflow.com/questions/63451506/list-is-deprecated-and-shouldnt-be-used-dart-null-safety) 

@@ -1,0 +1,1 @@
+ [(10条消息) Linux防火墙开启、查看端口等常用命令_pppppppppppppigkang的博客-CSDN博客_linux查看防火墙开放端口命令](https://blog.csdn.net/qq_41521180/article/details/90311477) 
