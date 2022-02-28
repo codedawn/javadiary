@@ -1,0 +1,1 @@
+[Java 单例模式的两种高效写法 - 简书 (jianshu.com)](https://www.jianshu.com/p/4e8ca4e2af6c)

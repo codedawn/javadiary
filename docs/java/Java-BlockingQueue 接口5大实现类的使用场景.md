@@ -1,0 +1,1 @@
+[Java-BlockingQueue 接口5大实现类的使用场景 - 云+社区 - 腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1636024)
